@@ -280,6 +280,11 @@ button {
     cursor: pointer;
 }
 
+.icon-modal:hover,
+.icon-modal:focus {
+    fill: var(--accent-color);
+}
+
 .title-modal {
     margin: 40px 40px 30px 40px;
     font-weight: bold;
