@@ -491,6 +491,9 @@ button {
     margin-top: 30px;
 }
 
+.features-list:last-child {
+    margin-right: 0px;
+}
 
 .site-list .title {
     margin-top: 0;
