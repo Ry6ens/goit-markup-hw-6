@@ -331,6 +331,11 @@ button {
     left: 15px;
 }
 
+.form-input:focus,
+.form-input:hover {
+    border: 1px solid var(--accent-color);
+}
+
 .form-filed:focus,
 .form-field:hover,
 .form-icon:hover,
